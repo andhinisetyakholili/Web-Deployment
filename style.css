@@ -1,0 +1,19 @@
+.judul {
+    margin-top: 150px;
+    color: rgb(242, 151, 212);
+    font-style: italic;
+}
+.gambar {
+    width: 325px;
+    height: 400px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.text6 {
+    margin-top: 100px;
+    color: blueviolet;
+}
+#email {
+    margin-left: 75px;
+    margin-right: 300px;
+}
